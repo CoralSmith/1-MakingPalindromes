@@ -1,4 +1,4 @@
-# 1-MakingPalindromes
+# 1 - Making Palindromes
 ## Challenge #218 [Easy] from r/DailyProgrammer - Making numbers palindromic
 
 To covert nearly any number into a palindromic number you operate by reversing the digits and adding and then repeating for N steps until you get a palindromic number. Note that, as an example, 196 never gets palindromic. Several numbers never appear to approach being palindromic - these are called Lychrel numbers.
